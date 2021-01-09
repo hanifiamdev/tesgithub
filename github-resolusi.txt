@@ -1,5 +1,4 @@
 List pembelajaran 
 - Apa itu github
-- Fitur - fitur di github
 - Cara penggunaan github
 - kolaborasi dengan git lokal
