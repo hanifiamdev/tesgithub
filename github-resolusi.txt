@@ -1,5 +1,7 @@
 List pembelajaran 
 - Apa itu github
 - Cara penggunaan github
+- Belajar branch
+- Belajar fork
 - kolaborasi dengan git lokal
-- Implement git ini project
+- Git CLI
